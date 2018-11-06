@@ -1,0 +1,15 @@
+body{
+	
+	
+}
+
+#contenido{
+
+	
+width: 400px;
+	margin: 0 auto;
+}
+
+#error_form{
+	color:red;
+}
